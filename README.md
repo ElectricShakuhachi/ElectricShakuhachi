@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ElectricShakuhachi
 
-Working on my general IT-skills at University of Helsinki and searching for various other opportunities
-to expand my skillset. 
+  Trainee at Nokia Solutions and Networks,
+defining and supporting on the usage of their CI infrastructure for SoC engineers.
 
-  Previously worked as Japanese-Finnish interpreter - still accepting some gigs on that front. 
-  
+Studying CS at University of Helsinki and working on Unix and Algorithm skills at Hive Helsinki.
